@@ -9,6 +9,7 @@ public Shop(double price, String[] products) {
         this.products = Set.of(products);
         }
 
+        
 public double getPrice() {
         return price;
         }
